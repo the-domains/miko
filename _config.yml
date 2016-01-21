@@ -1,0 +1,28 @@
+name: miko
+favicon: null
+layout_spectrum: 0.5029946018476039
+typography_spectrum: 0.3663756081368774
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7009464364964515
+  lightness: 0.4334709735121578
+  saturation: 0.7446167815942317
+  rhythmicContrast: 0.4460436606314033
+purpose: []
