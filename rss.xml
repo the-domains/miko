@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[miko]]></title>
         <description><![CDATA[miko]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/miko/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 13:26:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 13:34:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/miko/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>love fashion // think green</p>]]></description>
-            <link>undefinedcfa207cc-2632-42d1-b55a-f578e42f6a1e/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/55e9a009-c28d-49ea-99b3-7c06e84e026b.jpg">]]></description>
+            <link>https://thegrid.ai/miko/cfa207cc-2632-42d1-b55a-f578e42f6a1e/index.html</link>
             <guid isPermaLink="false">cfa207cc-2632-42d1-b55a-f578e42f6a1e</guid>
-            <pubDate>Sun, 24 Jan 2016 13:26:26 GMT</pubDate>
+            <pubDate>Sun, 24 Jan 2016 13:34:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
