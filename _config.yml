@@ -2,6 +2,7 @@ name: miko
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.3663756081368774
+title: love fashion // think green
 cta:
   domain: null
   bucket: null
@@ -21,8 +22,8 @@ color:
     - '#c0a69c'
     - '#a7373f'
     - '#8d7466'
-  brandStrength: 0.7009464364964515
-  lightness: 0.4334709735121578
+  brandStrength: 0.0625
+  lightness: 0.8125
   saturation: 0.5
-  rhythmicContrast: 0.4460436606314033
+  rhythmicContrast: 0.75
 purpose: []
