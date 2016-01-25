@@ -4,21 +4,21 @@
         <description><![CDATA[love fashion // think green]]></description>
         <link>https://thegrid.ai/miko/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 14:56:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 14:55:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/miko/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[top navi]]></title>
-            <description><![CDATA[<article><h1>top navi</h1><p>tubidu</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d56d0af2d3b91f87ac12c23c9b4eb1476eb8055.jpg"></article>]]></description>
-            <link>https://thegrid.ai/miko/64f050e3-cde0-4404-85bd-037800948074/index.html</link>
-            <guid isPermaLink="false">64f050e3-cde0-4404-85bd-037800948074</guid>
-            <pubDate>Mon, 25 Jan 2016 14:55:32 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[love fashion // think green]]></title>
             <description><![CDATA[<article><h1>love fashion // think green</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/746ef415a1458c5b6ad0d64966210971411e327c.jpg"></article>]]></description>
             <link>https://thegrid.ai/miko/cfa207cc-2632-42d1-b55a-f578e42f6a1e/index.html</link>
             <guid isPermaLink="false">cfa207cc-2632-42d1-b55a-f578e42f6a1e</guid>
             <pubDate>Mon, 25 Jan 2016 14:49:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[top navi]]></title>
+            <description><![CDATA[<article><h1>top navi</h1><p>tubidu</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d56d0af2d3b91f87ac12c23c9b4eb1476eb8055.jpg"></article>]]></description>
+            <link>https://thegrid.ai/miko/64f050e3-cde0-4404-85bd-037800948074/index.html</link>
+            <guid isPermaLink="false">64f050e3-cde0-4404-85bd-037800948074</guid>
+            <pubDate>Mon, 25 Jan 2016 14:55:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
