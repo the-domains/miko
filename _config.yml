@@ -1,4 +1,4 @@
-name: miko
+name: made by miko
 favicon: null
 layout_spectrum: 0.01061
 typography_spectrum: 0.3554
@@ -25,5 +25,5 @@ color:
   brandStrength: 1
   lightness: 0.25
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0
 purpose: []
