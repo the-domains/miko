@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Laden und mehr
-datePublished: '2016-03-15T21:06:29.761Z'
-dateModified: '2016-03-15T21:03:48.337Z'
+datePublished: '2016-03-15T21:06:50.440Z'
+dateModified: '2016-03-15T21:06:36.199Z'
+title: ''
+author: []
+sourcePath: _posts/2016-03-15-laden-und-mehr.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
-sourcePath: _posts/2016-03-15-laden-und-mehr.md
-published: true
 url: laden-und-mehr/index.html
 _type: Article
 
