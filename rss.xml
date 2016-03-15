@@ -4,21 +4,21 @@
         <description><![CDATA[love fashion // think green]]></description>
         <link>https://thegrid.ai/miko/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 21:07:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 21:25:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/miko/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Laden und mehr!]]></title>
+            <description><![CDATA[<article><h1>Laden und mehr!</h1><p>Laden und mehr</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c28b0b6be99d68215895428e1c7226d22aaecdce.jpg"></article>]]></description>
+            <link>https://thegrid.ai/miko/laden-und-mehr/index.html</link>
+            <guid isPermaLink="false">2504c1c6-af4a-4653-ab91-619a183e1226</guid>
+            <pubDate>Tue, 15 Mar 2016 21:25:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kollektion 2015 // 2016]]></title>
             <description><![CDATA[<article><h1>Kollektion 2015 // 2016</h1><p>eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nun</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60c6104f703bed75dc56a43404c47907e54a6996.jpg"></article>]]></description>
             <link>https://thegrid.ai/miko/kollektion-2015-2016/index.html</link>
             <guid isPermaLink="false">fa5285ca-b54c-4337-999b-0c833e0aa83b</guid>
             <pubDate>Tue, 15 Mar 2016 17:00:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/30df1a52-b97d-41ec-831c-7bb07fa20166.jpg">]]></description>
-            <link>https://thegrid.ai/miko/laden-und-mehr/index.html</link>
-            <guid isPermaLink="false">2504c1c6-af4a-4653-ab91-619a183e1226</guid>
-            <pubDate>Tue, 15 Mar 2016 21:06:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
