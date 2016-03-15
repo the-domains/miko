@@ -1,6 +1,6 @@
 name: made by miko
 favicon: null
-layout_spectrum: 0.62544
+layout_spectrum: 0.24415
 typography_spectrum: 0.86476
 title: love fashion // think green
 cta:
@@ -22,7 +22,7 @@ color:
     - '#6d6f7b'
     - '#e76c6e'
     - '#dba589'
-  brandStrength: 0.6875
+  brandStrength: 0
   lightness: 0.625
   saturation: 0.5
   rhythmicContrast: 0.75
